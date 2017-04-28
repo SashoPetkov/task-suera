@@ -1,0 +1,22 @@
+{
+  "contact": ["Website", "Share","Follow","Hire"],
+  "contImg": [
+    "http://www.premierlinks.co.uk/favicon.png",
+    "https://www.videum.com/Content/Images/shareiconembed.png",
+    "img/add-icon.png",
+    "http://platinumpeoresources.com/wp-content/uploads/briefcase-icon.png"
+  ],
+  "navigation": ["Profile", "Projects", "Skills"],
+  "navImg": [
+    "https://www.podomatic.com/assets/homebase/icon-profile-b65b9786b2133f6cf4da8d2612353409.png",
+    "https://www.mimh.edu/content/themes/mimh/assets/img/icon-professional-training-white.png",
+    "http://www.locatenorfolk.com/assets/category-logos/_resampled/SetWidth260-icon-skills.png"
+  ],
+  "mainImg": [
+    "img/car_4.jpg",
+    "img/car_1.jpg",
+    "img/car_2.jpg",
+    "img/car_3.jpg",
+    "img/car_5.jpg"
+  ]
+}
